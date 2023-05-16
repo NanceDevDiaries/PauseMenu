@@ -1,2 +1,2 @@
 # PauseMenu
- From empty project, implement pause and HUD CommonUI setup BP only
+ From an empty project, implement pause and HUD CommonUI setup BP only
