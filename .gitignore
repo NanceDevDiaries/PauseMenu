@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+.vsconfig
+*.xml
+
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Rider ignored files
+/contentModel.xml
+/.idea*
+/projectSettingsUpdater.xml
+/modules.xml
+/Plugins/Developer/RiderLink/*
+
